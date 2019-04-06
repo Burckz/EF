@@ -1,0 +1,14 @@
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\FastFood\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.deps.json
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\FastFood\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.json
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\FastFood\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.dev.json
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\FastFood\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.dll
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\FastFood\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.pdb
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\FastFood\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\FastFood\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\FastFood\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csprojAssemblyReference.cache
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\FastFood\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CoreCompileInputs.cache
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\FastFood\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfoInputs.cache
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\FastFood\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfo.cs
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\FastFood\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CopyComplete
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\FastFood\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.dll
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\FastFood\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.pdb

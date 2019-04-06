@@ -1,0 +1,10 @@
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Car Dealer XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Car Dealer XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Car Dealer XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Car Dealer XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Car Dealer XML\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Car Dealer XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Car Dealer XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Car Dealer XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Car Dealer XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Car Dealer XML\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb

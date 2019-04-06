@@ -1,0 +1,14 @@
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\MyApp\bin\Debug\netcoreapp2.1\MyApp.deps.json
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.json
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.dev.json
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\MyApp\bin\Debug\netcoreapp2.1\MyApp.dll
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\MyApp\bin\Debug\netcoreapp2.1\MyApp.pdb
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\MyApp\bin\Debug\netcoreapp2.1\Automapper.dll
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\MyApp\bin\Debug\netcoreapp2.1\Automapper.pdb
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\MyApp\obj\Debug\netcoreapp2.1\MyApp.csprojAssemblyReference.cache
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CoreCompileInputs.cache
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfoInputs.cache
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfo.cs
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CopyComplete
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\MyApp\obj\Debug\netcoreapp2.1\MyApp.dll
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\MyApp\obj\Debug\netcoreapp2.1\MyApp.pdb

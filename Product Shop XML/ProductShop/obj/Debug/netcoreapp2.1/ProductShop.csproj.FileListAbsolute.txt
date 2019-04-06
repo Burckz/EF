@@ -1,0 +1,10 @@
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Product Shop XML\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Product Shop XML\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Product Shop XML\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Product Shop XML\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Product Shop XML\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Product Shop XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Product Shop XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Product Shop XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Product Shop XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\Product Shop XML\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb

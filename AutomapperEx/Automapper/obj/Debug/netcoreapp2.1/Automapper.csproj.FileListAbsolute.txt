@@ -1,0 +1,9 @@
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\Automapper\bin\Debug\netcoreapp2.1\Automapper.deps.json
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\Automapper\bin\Debug\netcoreapp2.1\Automapper.dll
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\Automapper\bin\Debug\netcoreapp2.1\Automapper.pdb
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\Automapper\obj\Debug\netcoreapp2.1\Automapper.csprojAssemblyReference.cache
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\Automapper\obj\Debug\netcoreapp2.1\Automapper.csproj.CoreCompileInputs.cache
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\Automapper\obj\Debug\netcoreapp2.1\Automapper.AssemblyInfoInputs.cache
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\Automapper\obj\Debug\netcoreapp2.1\Automapper.AssemblyInfo.cs
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\Automapper\obj\Debug\netcoreapp2.1\Automapper.dll
+D:\Studies\SoftUni\Database - Entity Framework\SoftUni Project Homeworks\AutomapperEx\Automapper\obj\Debug\netcoreapp2.1\Automapper.pdb
